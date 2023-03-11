@@ -1,5 +1,4 @@
 # Lesson 1: Hello, World! <a name="lesson1"></a>
-[Back to Table of Contents](./README.md#table-of-contents)
 
 In this lesson, you'll learn how to print "Hello, World!" in Python...
 
@@ -59,4 +58,5 @@ This will push your changes to a remote repository on the master branch.
 
 Congratulations! You've learned how to print text to the console using Python, and how to manage your code changes using Git in VS Code.
 
+[Back to Table of Contents](./README.md#table-of-contents)
 
