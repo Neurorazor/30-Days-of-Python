@@ -1,5 +1,5 @@
 # Lesson 1: Hello, World! <a name="lesson1"></a>
-[Back to Table of Contents](../README.md#table-of-contents)
+[Back to Table of Contents](./README.md#table-of-contents)
 
 In this lesson, you'll learn how to print "Hello, World!" in Python...
 
