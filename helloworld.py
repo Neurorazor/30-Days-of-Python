@@ -22,3 +22,16 @@ print(type((9.8, 3.14, 2.7)))    # Tuple
 
 print("Hello, world!")
 
+# Create a variable called "name" and assign it a string value
+name = "Alice"
+
+# Create a variable called "age" and assign it an integer value
+age = 25
+
+# Create a variable called "is_student" and assign it a boolean value
+is_student = True
+
+# Create a variable called "pi" and assign it a float value
+pi = 3.14159
+
+
