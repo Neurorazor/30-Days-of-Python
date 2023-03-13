@@ -34,4 +34,12 @@ is_student = True
 # Create a variable called "pi" and assign it a float value
 pi = 3.14159
 
+# Create two variables and perform arithmetic operations
+x = 10
+y = 3
+z = x + y  # Adds x and y
+w = x - y  # Subtracts y from x
+q = x * y  # Multiplies x and y
+r = x / y  # Divides x by y (returns a float)
+s = x // y  # Divides x by y and rounds down to the nearest integer
 
