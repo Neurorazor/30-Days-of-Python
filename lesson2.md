@@ -1,3 +1,4 @@
+# Lesson 2: Data Types and Variables in Python <a name="lesson2"></a>
 Lesson 2: Data Types and Variables in Python
 
 In Python, you can create variables to store different types of data. Here are some of the basic data types in Python:
@@ -59,3 +60,4 @@ $ git push
 By following these steps, you can easily update your Git and GitHub repository with the latest changes.
 
 That's it for lesson 2! Don't forget to save the lesson2.md file and push the changes to the repository.
+[Back to Table of Contents](./README.md#table-of-contents)
